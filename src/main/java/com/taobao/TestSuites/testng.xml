@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="TaoBaoAutoTest" parallel="tests" Configfailurepolicy="continue" thread-count="1">
+    <test name="TaoBaoSearch">
+        <classes>
+            <class name="com.taobao.TestCases.TBSearchAppiumTest"/>
+        </classes>
+    </test> <!-- Test -->
+
+</suite> <!-- Suite -->

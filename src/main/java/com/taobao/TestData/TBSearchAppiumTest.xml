@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <testSearchAppium name="淘宝搜索商品">
+        <searkey>appium</searkey>
+        <searmethod>ID</searmethod>
+        <searvalue>com.taobao.taobao:id/title</searvalue>
+    </testSearchAppium>
+</data>
